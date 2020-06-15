@@ -4,7 +4,7 @@
 ```
 usage: renamemultiplefiles.py [-h] [-n NAME] [-e EXTENSION] path
 
-This script rename multiple files in the directory.
+This script renames multiple files in the directory.
 
 positional arguments:
   path                  directory where rename files
